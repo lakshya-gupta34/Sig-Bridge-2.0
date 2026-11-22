@@ -1,0 +1,30 @@
+{
+  "name": "signbridge-isl-translator",
+  "version": "1.0.0",
+  "description": "SignBridge: Advanced Bi-directional Indian Sign Language (ISL) <-> English & Hindi Translation Platform with Real-time Computer Vision and Kinematic Avatar",
+  "author": "SignBridge Open Source Team",
+  "license": "MIT",
+  "homepage": "https://github.com/your-username/signbridge",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node tests/test_isl_grammar.js"
+  },
+  "keywords": [
+    "indian-sign-language",
+    "isl",
+    "accessibility",
+    "mediapipe",
+    "bilingual",
+    "hindi-translation",
+    "english-translation",
+    "gesture-recognition",
+    "speech-to-sign",
+    "deaf-assistive-tech",
+    "islrtc"
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
