@@ -1,7 +1,4 @@
-# 🤟 SignBridge – Breaking Communication Barriers
-
-## Developed With Purpose
-**SignBridge – Every Gesture Has a Voice.**
+# SignBridge – Breaking Communication Barriers
 
 **SignBridge** is an AI-powered sign language recognition platform designed to bridge the communication gap between hearing-impaired individuals and people who don't understand sign language.
 
@@ -31,3 +28,6 @@ To make communication barrier-free by using Artificial Intelligence and emerging
 - Support for a wider range of sign language gestures.
 - Support for more languages such as Tamil, Punjabi, etc.
 - Support for multiple sign languages.
+
+## Developed With Purpose
+**SignBridge – Every Gesture Has a Voice.**
