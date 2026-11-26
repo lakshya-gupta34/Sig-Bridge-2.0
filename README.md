@@ -1,4 +1,4 @@
-# SignBridge: Indian Sign Language (ISL) &harr; English &amp; हिन्दी Translation Platform
+## SignBridge: Indian Sign Language (ISL) &harr; English &amp; हिन्दी Translation Platform
 
 > **An advanced, bi-directional, multimodal assistive platform designed for India's 18+ Million Deaf & Hard-of-Hearing community.**  
 > Aligned with **ISLRTC (Indian Sign Language Research and Training Centre)** standards.
